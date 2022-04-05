@@ -1,0 +1,16 @@
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\bin\Debug\net5.0\Game.exe
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\bin\Debug\net5.0\Game.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\bin\Debug\net5.0\Game.dll
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\bin\Debug\net5.0\Game.pdb
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.dll
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\refint\Game.dll
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.pdb
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\ref\Game.dll
