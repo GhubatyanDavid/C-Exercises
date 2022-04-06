@@ -1,0 +1,32 @@
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\bin\Debug\net5.0\Workers.exe
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\bin\Debug\net5.0\Workers.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\bin\Debug\net5.0\Workers.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\bin\Debug\net5.0\Workers.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\bin\Debug\net5.0\Workers.dll
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\bin\Debug\net5.0\Workers.pdb
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\Workers.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\Workers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\Workers.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\Workers.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\Workers.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\Workers.dll
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\refint\Workers.dll
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\Workers.pdb
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\Workers.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\Workers\Workers\obj\Debug\net5.0\ref\Workers.dll
+E:\Github\C# - Exercises\19.Workers\Workers\bin\Debug\net5.0\Workers.exe
+E:\Github\C# - Exercises\19.Workers\Workers\bin\Debug\net5.0\Workers.deps.json
+E:\Github\C# - Exercises\19.Workers\Workers\bin\Debug\net5.0\Workers.runtimeconfig.json
+E:\Github\C# - Exercises\19.Workers\Workers\bin\Debug\net5.0\Workers.runtimeconfig.dev.json
+E:\Github\C# - Exercises\19.Workers\Workers\bin\Debug\net5.0\Workers.dll
+E:\Github\C# - Exercises\19.Workers\Workers\bin\Debug\net5.0\Workers.pdb
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\Workers.csproj.AssemblyReference.cache
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\Workers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\Workers.AssemblyInfoInputs.cache
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\Workers.AssemblyInfo.cs
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\Workers.csproj.CoreCompileInputs.cache
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\Workers.dll
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\refint\Workers.dll
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\Workers.pdb
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\Workers.genruntimeconfig.cache
+E:\Github\C# - Exercises\19.Workers\Workers\obj\Debug\net5.0\ref\Workers.dll
