@@ -1,0 +1,16 @@
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.exe
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.runtimeconfig.dev.json
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.dll
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\bin\Debug\net5.0\HomeWork2.pdb
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.dll
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\refint\HomeWork2.dll
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.pdb
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\HomeWork2.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\HomeWork2\HomeWork2\obj\Debug\net5.0\ref\HomeWork2.dll
