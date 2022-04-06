@@ -14,3 +14,19 @@ C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\refint\Game.dll
 C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.pdb
 C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache
 C:\Users\HighEnd\Desktop\C# Examples\Game\Game\obj\Debug\net5.0\ref\Game.dll
+E:\Github\C# - Exercises\9.Game\Game\bin\Debug\net5.0\Game.exe
+E:\Github\C# - Exercises\9.Game\Game\bin\Debug\net5.0\Game.deps.json
+E:\Github\C# - Exercises\9.Game\Game\bin\Debug\net5.0\Game.runtimeconfig.json
+E:\Github\C# - Exercises\9.Game\Game\bin\Debug\net5.0\Game.runtimeconfig.dev.json
+E:\Github\C# - Exercises\9.Game\Game\bin\Debug\net5.0\Game.dll
+E:\Github\C# - Exercises\9.Game\Game\bin\Debug\net5.0\Game.pdb
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\Game.csproj.AssemblyReference.cache
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\Game.AssemblyInfoInputs.cache
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\Game.AssemblyInfo.cs
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\Game.csproj.CoreCompileInputs.cache
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\Game.dll
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\refint\Game.dll
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\Game.pdb
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\Game.genruntimeconfig.cache
+E:\Github\C# - Exercises\9.Game\Game\obj\Debug\net5.0\ref\Game.dll
