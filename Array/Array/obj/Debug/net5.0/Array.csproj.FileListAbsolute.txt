@@ -14,3 +14,19 @@ C:\Users\HighEnd\Desktop\C# Examples\Array\Array\obj\Debug\net5.0\refint\Array.d
 C:\Users\HighEnd\Desktop\C# Examples\Array\Array\obj\Debug\net5.0\Array.pdb
 C:\Users\HighEnd\Desktop\C# Examples\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
 C:\Users\HighEnd\Desktop\C# Examples\Array\Array\obj\Debug\net5.0\ref\Array.dll
+E:\Github\C# - Exercises\Array\Array\bin\Debug\net5.0\Array.exe
+E:\Github\C# - Exercises\Array\Array\bin\Debug\net5.0\Array.deps.json
+E:\Github\C# - Exercises\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+E:\Github\C# - Exercises\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+E:\Github\C# - Exercises\Array\Array\bin\Debug\net5.0\Array.dll
+E:\Github\C# - Exercises\Array\Array\bin\Debug\net5.0\Array.pdb
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\Array.dll
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\refint\Array.dll
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\Array.pdb
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
+E:\Github\C# - Exercises\Array\Array\obj\Debug\net5.0\ref\Array.dll

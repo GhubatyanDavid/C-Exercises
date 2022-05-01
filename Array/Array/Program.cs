@@ -6,10 +6,10 @@ namespace Array
     {
         static void Main(string[] args)
         {
-            int[] firstArray = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-            int[] secondArray = { 2, 3, 4, 10, 5, 6, 7, 12, 13 };
+            int[] firstArray = { 6,3,5,0,2,1,10,11,12 };
+            int[] secondArray = { 4,78,5,10,3,0,1,11 };
             string[] finalArray = new string[firstArray.Length];
-            bool result = false;
+            bool firstNumberDone = false;
             int counter = 0;
             int i = 0;
 
@@ -17,37 +17,48 @@ namespace Array
             {
                 for (int j = 0; j < secondArray.Length; j++)
                 {
-                    if (firstArray[i] == secondArray[j])
+                    if (!firstNumberDone || finalArray[i] == null)
                     {
-                        finalArray[counter++] = Convert.ToString(firstArray[i]);
-                        result = true;
-                        break;
+                        if (firstArray[i] == secondArray[j])
+                        {
+                            finalArray[counter++] = Convert.ToString(firstArray[i]);
+                            firstNumberDone = true;
+                        }
+                    }
+                    if (firstNumberDone)
+                    {
+                        if (firstArray[i] == secondArray[j]  && finalArray[counter-1] == Convert.ToString(firstArray[i-1]))
+                        {
+                            finalArray[counter++] = Convert.ToString(firstArray[i]);
+                            break;
+                        }
                     }
                 }
-                if (result == true)
+                if (firstNumberDone)
                 {
-                    i++;
-                    break;
-                }
-            }
-            for (; i < firstArray.Length; i++)
-            {
-                for (int j = 0; j < secondArray.Length; j++)
-                {
-                    if (firstArray[i] == secondArray[j] & finalArray[counter - 1] == Convert.ToString(firstArray[i - 1]))
+                    if (finalArray[counter-1] != Convert.ToString(firstArray[i]))
                     {
-                        finalArray[counter++] = Convert.ToString(firstArray[i]);
-                        result = true;
-                        break;
+                        RemoveArrayItems(finalArray,counter);
+                        counter++;
                     }
                 }
+
             }
-            for (int k = 0; k < finalArray.Length; k++)
+            Print(finalArray);
+        }
+        static void RemoveArrayItems(string[] array, int counter)
+        {
+            array[counter] = "  ";
+        }
+        static void Print(string[] array)
+        {
+            for (int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine(finalArray[k]);
+                Console.Write(array[i]);
             }
         }
     }
 }
+
 
 
