@@ -1,0 +1,15 @@
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.dll
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\bin\Debug\net5.0\Automarket.DAL.pdb
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\bin\Debug\net5.0\CarShop.Domain.dll
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\bin\Debug\net5.0\CarShop.Domain.pdb
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.csproj.CopyComplete
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.dll
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\refint\Automarket.DAL.dll
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\Automarket.DAL.pdb
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\Automarket.DAL\obj\Debug\net5.0\ref\Automarket.DAL.dll

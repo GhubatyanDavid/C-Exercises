@@ -30,7 +30,6 @@ namespace Array
                         if (firstArray[i] == secondArray[j]  && finalArray[counter-1] == Convert.ToString(firstArray[i-1]))
                         {
                             finalArray[counter++] = Convert.ToString(firstArray[i]);
-                            break;
                         }
                     }
                 }
@@ -48,7 +47,7 @@ namespace Array
         }
         static void RemoveArrayItems(string[] array, int counter)
         {
-            array[counter] = "  ";
+            array[counter] = " ";
         }
         static void Print(string[] array)
         {

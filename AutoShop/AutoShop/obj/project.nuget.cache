@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "qc6xSH3fhlUxrHjP5ggDKDso0VJ1v2opKJW6XG1bvdIdYlLlz/T7PNpLUPAAHuV3eeHSEXDc1A9lP998Dsh2BQ==",
+  "success": false,
+  "projectFilePath": "E:\\Github\\C# - Exercises\\AutoShop\\AutoShop\\AutoShop.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\Github\\C# - Exercises\\CarShop\\CarShop.Domain\\CarShop.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\Github\\C# - Exercises\\CarShop\\CarShop.Domain\\CarShop.Domain.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

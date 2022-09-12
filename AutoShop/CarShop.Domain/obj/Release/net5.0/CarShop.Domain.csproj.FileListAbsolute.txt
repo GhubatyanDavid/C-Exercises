@@ -1,0 +1,12 @@
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\bin\Release\net5.0\CarShop.Domain.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\bin\Release\net5.0\CarShop.Domain.dll
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\bin\Release\net5.0\CarShop.Domain.pdb
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\obj\Release\net5.0\CarShop.Domain.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\obj\Release\net5.0\CarShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\obj\Release\net5.0\CarShop.Domain.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\obj\Release\net5.0\CarShop.Domain.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\obj\Release\net5.0\CarShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\obj\Release\net5.0\CarShop.Domain.dll
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\obj\Release\net5.0\refint\CarShop.Domain.dll
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\obj\Release\net5.0\CarShop.Domain.pdb
+C:\Users\HighEnd\Desktop\C# Examples\CarShop\CarShop.Domain\obj\Release\net5.0\ref\CarShop.Domain.dll
