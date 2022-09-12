@@ -1,0 +1,30 @@
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.exe
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.deps.json
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.runtimeconfig.json
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.dll
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.pdb
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.csproj.AssemblyReference.cache
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.AssemblyInfoInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.AssemblyInfo.cs
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.csproj.CoreCompileInputs.cache
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.dll
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\refint\UserCollectionMonths.dll
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.pdb
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.genruntimeconfig.cache
+C:\Users\HighEnd\Desktop\C# Examples\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\ref\UserCollectionMonths.dll
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.exe
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.deps.json
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.runtimeconfig.json
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.dll
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\bin\Debug\net6.0\UserCollectionMonths.pdb
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.csproj.AssemblyReference.cache
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.AssemblyInfoInputs.cache
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.AssemblyInfo.cs
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.csproj.CoreCompileInputs.cache
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.dll
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\refint\UserCollectionMonths.dll
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.pdb
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\UserCollectionMonths.genruntimeconfig.cache
+E:\Github\C# - Exercises\UserCollectionMonths\UserCollectionMonths\obj\Debug\net6.0\ref\UserCollectionMonths.dll
