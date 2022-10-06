@@ -11,41 +11,29 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Client
 build_property.RootNamespace = Client
-build_property.ProjectDir = C:\Users\HighEnd\Desktop\C# Examples\Portfoilo\Client\
+build_property.ProjectDir = E:\Github\C# - Exercises\Portfoilo\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HighEnd\Desktop\C# Examples\Portfoilo\Client
+build_property.MSBuildProjectDirectory = E:\Github\C# - Exercises\Portfoilo\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HighEnd/Desktop/C\# Examples/Portfoilo/Client/App.razor]
+[E:/Github/C\# - Exercises/Portfoilo/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HighEnd/Desktop/C\# Examples/Portfoilo/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[E:/Github/C\# - Exercises/Portfoilo/Client/Pages/Public/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHVibGljXEluZGV4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HighEnd/Desktop/C\# Examples/Portfoilo/Client/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/HighEnd/Desktop/C\# Examples/Portfoilo/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/HighEnd/Desktop/C\# Examples/Portfoilo/Client/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/HighEnd/Desktop/C\# Examples/Portfoilo/Client/_Imports.razor]
+[E:/Github/C\# - Exercises/Portfoilo/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HighEnd/Desktop/C\# Examples/Portfoilo/Client/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-ocnk4r8tjs
+[E:/Github/C\# - Exercises/Portfoilo/Client/Components/Public/Shared/Navbar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQdWJsaWNcU2hhcmVkXE5hdmJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ktkhvttqzk
 
-[C:/Users/HighEnd/Desktop/C\# Examples/Portfoilo/Client/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-kd1ih0s86n
+[E:/Github/C\# - Exercises/Portfoilo/Client/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-baewqqmwdu

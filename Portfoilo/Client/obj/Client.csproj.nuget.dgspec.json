@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HighEnd\\Desktop\\C# Examples\\Portfoilo\\Client\\Client.csproj": {}
+    "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HighEnd\\Desktop\\C# Examples\\Portfoilo\\Client\\Client.csproj": {
+    "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HighEnd\\Desktop\\C# Examples\\Portfoilo\\Client\\Client.csproj",
+        "projectUniqueName": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\HighEnd\\Desktop\\C# Examples\\Portfoilo\\Client\\Client.csproj",
+        "projectPath": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\HighEnd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HighEnd\\Desktop\\C# Examples\\Portfoilo\\Client\\obj\\",
+        "outputPath": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HighEnd\\AppData\\Roaming\\NuGet\\NuGet.Config",
