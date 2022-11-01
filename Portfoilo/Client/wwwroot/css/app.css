@@ -3,6 +3,16 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+.rectangle {
+    position: absolute;
+    width: 618px;
+    height: 467px;
+    left: 950px;
+    top: 233px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(15px);
+    /* Note: backdrop-filter has minimal browser support */
+}
 
 .btn {
     border-radius: 0px;
@@ -25,7 +35,7 @@ body {
 }
 
 .bg-motherboard-dev {
-    background-image: url("../assets/img/publicbackgrounds/bg-motherboard-dev.jpg");
+    background-image: url("../assets/img/publicbackgrounds/bg-pc.jpg");
 }
 
 .min-vh-90 {
@@ -33,9 +43,80 @@ body {
 }
 
 .bg-white-94 {
-    background-color: rgba(255, 255, 255, 0.94);
+    backdrop-filter: blur(15px);
+    background: rgba(255, 255, 255, 0.15);
+}
+.bg-white-color {
+    color: rgba(255,255,255);
+}
+.bg-firstLetter {
+    width: 534px;
+    height: 130px;
+    left: 1002px;
+    top: 291px;
+    font-family: 'Cambria Math';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 65px;
+    color: #FFFFFF;
+}
+.bg-secondLetter {
+    width: 464px;
+    height: 87px;
+    left: 1002px;
+    top: 446px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
 }
 
+.opacitybutton{
+    opacity: 1;
+    
+}
+.strokeColor {
+    stroke-width: 10px;
+    stroke: red;
+}
+.border{
+    list-style:none;
+    border: 2px solid #fff;
+    font-size:15px;
+    font-weight:bold;
+    
+}
+.button{
+    width:200px;
+    border:none;
+    color:white;
+    padding:5px 5px;
+    text-align:center;
+    text-decoration:none;
+    font-size:17px;
+    cursor:pointer;
+    background:transparent;
+    border:3.3px solid rgba(255,255,255);
+}
+    .button:hover {
+        background-color: rgba(255,255,255);
+        color: black;
+        
+    }
+.firstButton {
+    width: 200px;
+    border: none;
+    color: white;
+    padding: 8px 8px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    cursor: pointer;
+    background: #0F94D8;
+}
 .f-size-3 {
     font-size: 3rem;
 }

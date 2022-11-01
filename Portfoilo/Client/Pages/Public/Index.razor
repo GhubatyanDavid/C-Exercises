@@ -1,26 +1,35 @@
 ﻿@page "/"
 
-@* Navbar *@
+<Client.Components.Public.Shared.Navbar/>
 
 <main class="d-flex flex-column w-100 min-vh-90 justify-content-center align-items-center overflow-auto bg-motherboard-dev">
+
     <div class="container g-0">
         <div class="row g-0">
-            <div class="col-lg-6"></div>
-            <div class="col-lg-6 d-inline-flex flex-column bg-white-94 p-5 shadow-no-hover">
-                <h1 class="d-inline-flex">Welcome to my Personal portfoilo.</h1>
-                <p class="d-inline-flex">
-                    I am a beginner software developer that specializes in C#,Asp .Net,Blazor.
-                    <br />
-                    <br />
+            <div class="col-lg-7 bg"></div>
+            <div class="col-lg-5 d-inline-flex flex-column   p-5 shadow-no-hover op bg-white-94 ">
+
+                <h1 class="bg-white-color bg-firstLetter">Welcome to my Personal Portfoilo.</h1>
+                <br />
+
+                <p class=" bg-white-color bg-secondLetter ">
+                    I am a beginner software developer who specializes in C#, .Net , Blazor.
                     I am glad to see you on my site.
                 </p>
-                <a href="/portfolio" class="btn btn-primary shadow btn-lg fw-bold mt-3 md-f-size-1-5">
-                    <i class="fas fa-project-diagram"></i> Projects
+                <br />
+                <a href="/portfoilo" class="firstButton btn md-f-size-1-5 ">
+                    Portfoilo
                 </a>
-                <a href="/about" class="btn btn-secondary shadow btn-lg fw-bold mt-4 md-f-size-1-5">
-                    <i class="fas fa-info-circle"></i> More information
+                <div style="position:absolute; left:280px; top:337px;">
+                   
+                <a href="/project" class=" button btn md-f-size-1-5 ">
+                    More
                 </a>
+                    </div>
             </div>
         </div>
     </div>
+    
 </main>
+
+<Client.Components.Public.Shared.Footer/>
