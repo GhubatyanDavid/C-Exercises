@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xnJooVOPGhm50SqvfRjE6NOShYaT4JgcxhlcfKxRWfo=",
+  "Hash": "UXwIlJOXN05a97H2Sehwv7h8k93ZONfcTazn53gLiKg=",
   "Source": "Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "boot",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.3\\build\\net6.0\\blazor.webassembly.js"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.10\\build\\net6.0\\blazor.webassembly.js"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Client.dll",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net6.0\\Client.pdb"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\de\\PdfSharp.Charting.resources.dll",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/de/PdfSharp.Charting.resources.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Related",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\PdfSharp.Charting.dll",
+      "AssetTraitName": "Culture",
+      "AssetTraitValue": "de",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\pdfsharp\\1.50.5147\\lib\\net20\\de\\PdfSharp.Charting.resources.dll"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\de\\PdfSharp.resources.dll",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/de/PdfSharp.resources.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Related",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\PdfSharp.dll",
+      "AssetTraitName": "Culture",
+      "AssetTraitValue": "de",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\pdfsharp\\1.50.5147\\lib\\net20\\de\\PdfSharp.resources.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.10.k8zri2yuqy.js",
@@ -136,6 +170,23 @@
       "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\native\\dotnet.wasm"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/icudt.dat",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "native",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\native\\icudt.dat"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt_CJK.dat",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -187,23 +238,6 @@
       "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\native\\icudt_no_CJK.dat"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/icudt.dat",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorWebAssemblyResource",
-      "AssetTraitValue": "native",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\native\\icudt.dat"
-    },
-    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -218,7 +252,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -235,7 +269,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
@@ -252,7 +286,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
@@ -269,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Components.Web.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
@@ -286,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
@@ -303,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.3\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.10\\lib\\net6.0\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll",
@@ -439,7 +473,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
@@ -507,7 +541,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -575,7 +609,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.jsinterop\\6.0.3\\lib\\net6.0\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.jsinterop\\6.0.10\\lib\\net6.0\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
@@ -592,7 +626,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.3\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.jsinterop.webassembly\\6.0.10\\lib\\net6.0\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.VisualBasic.Core.dll",
@@ -695,6 +729,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\lib\\net6.0\\netstandard.dll"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\PdfSharp.Charting.dll",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/PdfSharp.Charting.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\pdfsharp\\1.50.5147\\lib\\net20\\PdfSharp.Charting.dll"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\PdfSharp.dll",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/PdfSharp.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\pdfsharp\\1.50.5147\\lib\\net20\\PdfSharp.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.AppContext.dll",
@@ -1544,7 +1612,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\system.io.pipelines\\6.0.2\\lib\\net6.0\\System.IO.Pipelines.dll"
+      "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\system.io.pipelines\\6.0.3\\lib\\net6.0\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.dll",
@@ -3417,23 +3485,6 @@
       "OriginalItemSpec": "C:\\Users\\HighEnd\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\runtimes\\browser-wasm\\lib\\net6.0\\WindowsBase.dll"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\+1CiOk53.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
-    },
-    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\+1U9um1L.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -3500,6 +3551,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Timer.dll"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\+ucPKWvt.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\03TaKk1Q.gz",
@@ -3638,23 +3706,6 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Primitives.dll"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\1rqrB8sD.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
-    },
-    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\2ejP3Chw.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -3757,21 +3808,21 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.FileVersionInfo.dll"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\4SZXTRdk.gz",
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\4DfIn0U2.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "RelativePath": "_framework/de/PdfSharp.resources.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\de\\PdfSharp.resources.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\de\\PdfSharp.resources.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\5KCPdKbb.gz",
@@ -3961,6 +4012,23 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Requests.dll"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\92HdKKQF.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\96oJq5Tl.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4046,6 +4114,23 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Mail.dll"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\ApGH2o30.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/de/PdfSharp.Charting.resources.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\de\\PdfSharp.Charting.resources.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\de\\PdfSharp.Charting.resources.dll"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\AXlaJRYK.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4061,6 +4146,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Text.Encodings.Web.dll"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\B2wE8qIN.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\b5Sn5I7+.gz",
@@ -4182,6 +4284,23 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.dll"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\bUO4Hi3r.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\caaYP44E.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4233,23 +4352,6 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\CfVRdmEA.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
-    },
-    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\cgdMgGFv.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4265,23 +4367,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TextWriterTraceListener.dll"
-    },
-    {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\Cic+o3Yn.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Forms.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\cmqAuZve.gz",
@@ -4369,23 +4454,6 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.VisualC.dll"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\DaueBjqH.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
-    },
-    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\DIND4LMf.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -4452,6 +4520,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.CompilerServices.Unsafe.dll"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\dPgt0z2N.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\DS0A7O+g.gz",
@@ -4692,21 +4777,21 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Data.dll"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\FgBrGTzD.gz",
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\fmd6w+hR.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
+      "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.WebAssembly.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\fqMeMWiO.gz",
@@ -4826,6 +4911,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Tasks.Extensions.dll"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\GRiM3522.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\GuvyH62B.gz",
@@ -4998,6 +5100,23 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ServiceModel.Web.dll"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\I5ZOacFL.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\IDb+TW72.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5032,6 +5151,23 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XmlDocument.dll"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\ifOnAIPh.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\IxwGxyXe.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5049,21 +5185,21 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.Debug.dll"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\j16p4MND.gz",
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\iY78eTcW.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
+      "RelativePath": "_framework/PdfSharp.Charting.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\PdfSharp.Charting.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\PdfSharp.Charting.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\j88LFIdG.gz",
@@ -5219,6 +5355,23 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Client.pdb"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\kLtx797f.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/PdfSharp.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\PdfSharp.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\PdfSharp.dll"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\KWDR+sSH.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5285,23 +5438,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
-    },
-    {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\LhilX+5R.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.WebAssembly.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\LHJ3v0sp.gz",
@@ -5610,6 +5746,23 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebClient.dll"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\pajbULO8.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/blazor.webassembly.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\pIL6LS1A.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5695,23 +5848,6 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.Security.dll"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\Qg0UfSfa.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/blazor.webassembly.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js"
-    },
-    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\qH0tPJQu.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -5744,23 +5880,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.IsolatedStorage.dll"
-    },
-    {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\QRNLqUpK.gz",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\quukByVd.gz",
@@ -6664,6 +6783,23 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\mscorlib.dll"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\Yhg0QYFt.gz",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Web.dll"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\yjpU65RT.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -6783,21 +6919,21 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Security.Cryptography.OpenSsl.dll"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\zvuUR5qH.gz",
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\build-gz\\ZoX+k7Xz.gz",
       "SourceId": "Client",
       "SourceType": "Computed",
       "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
+      "RelativePath": "_framework/Microsoft.JSInterop.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll",
+      "RelatedAsset": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.IO.Pipelines.dll"
+      "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Client.styles.css",
@@ -6834,40 +6970,6 @@
       "OriginalItemSpec": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Client.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "service-worker-assets.js",
-      "AssetKind": "Publish",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorServiceWorker",
-      "AssetTraitValue": "ServiceWorkerManifest",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "obj\\Debug\\net6.0\\service-worker-assets.js"
-    },
-    {
-      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js.build",
-      "SourceId": "Client",
-      "SourceType": "Computed",
-      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "service-worker-assets.js",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "BlazorServiceWorker",
-      "AssetTraitValue": "ServiceWorkerManifest",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "obj\\Debug\\net6.0\\service-worker-assets.js.build"
-    },
-    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\service-worker\\service-worker.js",
       "SourceId": "Client",
       "SourceType": "Computed",
@@ -6902,6 +7004,91 @@
       "OriginalItemSpec": "wwwroot\\service-worker.published.js"
     },
     {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "service-worker-assets.js",
+      "AssetKind": "Publish",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorServiceWorker",
+      "AssetTraitValue": "ServiceWorkerManifest",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "obj\\Debug\\net6.0\\service-worker-assets.js"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\obj\\Debug\\net6.0\\service-worker-assets.js.build",
+      "SourceId": "Client",
+      "SourceType": "Computed",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "service-worker-assets.js",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorServiceWorker",
+      "AssetTraitValue": "ServiceWorkerManifest",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "obj\\Debug\\net6.0\\service-worker-assets.js.build"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\assets\\img\\about\\about.jpg",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "assets/img/about/about.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\about\\about.jpg"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\assets\\img\\about\\me.jpg",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "assets/img/about/me.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\about\\me.jpg"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\assets\\img\\contact\\contactus.jpg",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "assets/img/contact/contactus.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\contact\\contactus.jpg"
+    },
+    {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\assets\\img\\publicbackgrounds\\bg-motherboard.jpg",
       "SourceId": "Client",
       "SourceType": "Discovered",
@@ -6934,6 +7121,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\publicbackgrounds\\bg-pc.jpg"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\assets\\pdf\\David_Ghubatyan.pdf",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "assets/pdf/David_Ghubatyan.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\pdf\\David_Ghubatyan.pdf"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\css\\app.css",
@@ -7019,6 +7223,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\index.html.css",
+      "SourceId": "Client",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "index.html.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html.css"
     },
     {
       "Identity": "E:\\Github\\C# - Exercises\\Portfoilo\\Client\\wwwroot\\manifest.json",

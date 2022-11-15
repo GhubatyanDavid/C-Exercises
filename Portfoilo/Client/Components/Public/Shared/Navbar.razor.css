@@ -16,14 +16,36 @@
 
 .nav-link:hover,
 .nav-link:focus {
-    color: rgba(0, 0, 0, 0.85);
-    border-bottom: 0.5rem solid transparent;
-    border-bottom-color: rgba(0, 0, 0, 0.4);
 }
 
-.active {
-    font-size: 1.35rem;
-    color: #000;
-    border-bottom: 0.5rem solid transparent;
-    border-bottom-color: #000;
+
+.button:hover {
+        color: #0F94D8;
+    }
+
+.navbar-nav .active {
+    color: #0F94D8;
+    border-bottom: 5px solid #0F94D8;
+    width:100%;
+    border-radius:1px;
+    transition:0.5s ease;
+}
+    
+
+.Button {
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: uppercase;
+    color: #141414;
+    background-color: transparent;
+    text-decoration: none;
+}
+.first {
+    width: 61px;
+    height: 24px;
+}
+.textblue {
+    color: #0F94D8;
 }
